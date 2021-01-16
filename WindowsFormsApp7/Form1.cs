@@ -21,6 +21,7 @@ namespace WindowsFormsApp7
         int kup(int sayi)
         {
            int sonuc = sayi * sayi * sayi;
+
             return sonuc;
         }
         //int carpım(int s1, int s2, int s3)
